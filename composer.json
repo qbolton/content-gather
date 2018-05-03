@@ -1,0 +1,10 @@
+{
+  "require": {
+  "monolog/monolog": "1.10.*",
+  "james-heinrich/phpthumb": "dev-master",
+  "mgargano/simplehtmldom": "dev-master",
+  "teacup/log": "dev-master",
+  "embedly/embedly-php": "dev-master",
+  "guzzlehttp/guzzle": "5.0.*@dev"
+  }
+}

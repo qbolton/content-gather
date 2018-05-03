@@ -1,0 +1,630 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [job_id] => 2
+            [site_id] => 3
+            [job_type] => feed
+            [job_name] => ExtractJob
+            [job_status] => 
+            [job_params] => {"'acceptable_item_age":"7 days ago"}
+            [job_modules] => 
+            [job_logfile] => blackromance.log
+            [job_desc] => This job extracts data from the given feeds for BlackRomance
+            [job_exec_status] => RUNNING
+            [job_exec_date] => 2014-12-04 22:23:34
+        )
+
+)
+stdClass Object
+(
+    [title] => How Honest Are We?
+    [link] => http://feedproxy.google.com/~r/theurbandater/~3/WiqAYqbCh0M/
+    [category] => Array
+        (
+            [0] => Dates & Details
+            [1] => boys
+            [2] => crazy
+            [3] => Dating
+            [4] => ex
+            [5] => first
+            [6] => honesty
+            [7] => rejection
+            [8] => Relationships
+            [9] => Sex
+        )
+
+    [creator] => stdClass Object
+        (
+            [dc] => http://purl.org/dc/elements/1.1/
+            [content] => Natalia Morawski
+        )
+
+    [pubDate] => Tue, 02 Dec 2014 10:00:59 PST
+    [guid] => stdClass Object
+        (
+            [isPermaLink] => false
+            [content] => http://theurbandater.com?p=9270&preview_id=9270
+        )
+
+    [encoded] => stdClass Object
+        (
+            [content] => Array
+                (
+                    [0] => http://purl.org/rss/1.0/modules/content/
+                    [1] => <p>the Urban Dater is a blog covering the topics of Online Dating, Relationship Advice and Sex. Check out our latest entry here: <a rel="nofollow" href="http://theurbandater.com">the Urban Dater - A Blog About Online Dating, Relationships &amp; Sex</a></p>
+      <p><a href="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png"><img class="aligncenter size-full wp-image-9271" src="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png" alt="Screen-Shot-2014-11-30-at-8.42.16-pm" width="1000" height="663" /></a>You could hit me with a red flag and said, &#8220;I just hit you with a red flag,&#8221; and I still wouldn&#8217;t take the hint that I was in a bad situation. I am a hopeful romantic. Red flags for me are weaknesses in a person I can overlook or accept.</p>
+<p>This particular night out it must have been the combination of over-dramatic venting about wanting a relationship, with my single friend/touch stone, determination to remove the loneliness, and the intoxication of flirting that gave me the courage to write down my number on a serviette for the gorgeous waiter.</p>
+<p><em>(As a side note I totally recommend you try this at least once, it&#8217;s incredibly liberating and makes you feel like a woman on top of the world. It&#8217;s fool-proof because if they don&#8217;t message you, you can just convince yourself they didn&#8217;t see the serviette or they accidentally chucked it out).</em></p>
+<p>In fact, I do pretty much convince myself that I won&#8217;t get a message, but after a few hours, I do. Fuck yes.</p>
+<p>His name is Daniel and what I learned from our frequent messaging is that he is everything I want in a guy. His intelligence isn&#8217;t sterile or pretentious, he&#8217;s interesting, cultured in a way that&#8217;s almost inspiring and of course, funny. Just from our messages it seems like we could really, really get along. But what makes me take a step back is his age; I&#8217;m 18 and he&#8217;s just shy of 26, but it&#8217;s too late to be responsible or rational or careful, he&#8217;s drawn me in.</p>
+<p><strong>First red flag:</strong> We&#8217;ve been messaging for almost two weeks and he hasn&#8217;t asked me out yet. But when he compliments me on my &#8220;ballsiness&#8221; for leaving my number, I take this as an opportunity to be even ballsier and ask him to dinner.</p>
+<p><strong>Red flag #2:</strong> We are messaging about our weekends and he tells me his was particularly big and emotional; &#8220;I just ended an in-between period with my ex.&#8221;</p>
+<p>Oh.</p>
+<p>We finally have our date and well&#8230;<strong>it&#8217;s fucking great.</strong></p>
+<p>We&#8217;re attracted to each other like deprived sun flowers leaning to the sun, our conversations are full and fun, witty and laced with teasing and jokes, and our deeper, more serious conversations make me feel like a light bulb, turned on for the first time in years.</p>
+<p><em>&#8220;This is something else,&#8221; I think. I&#8217;ve read about these dates on Thought Catalogue.</em></p>
+<p>I realize I&#8217;m competing with myself, I want to be smarter, funnier, wittier, more interesting, I&#8217;ve gone into overdrive, searching the depths of my brain to make him feel as attracted to my mind as I am to his. Which I guess can be healthy right? If someone makes you want to be your best self &#8212; hazarh, you&#8217;ve struck gold. But what if you stop being your best self and start being someone else? What if you start feeling inadequate, like the distance between your souls is no longer just age, but state of mind. Looking back now I almost feel as though the smile that was plastered on his face, and his eager posture were just side effects of his feeling of superiority; superiority over me; a kick-ass feeling of being able to use his anthropology skills to crack my brain like a fortune cookie.</p>
+<p>Before I even realized what I&#8217;d gotten myself into, I&#8217;m on the back of his motorbike &#8212; destination: his place.</p>
+<p>We&#8217;re post-coitus, still naked, still in each other&#8217;s embrace, his fingers making soft tracks across my shoulders, down my back and back up again. Our eyes are locked, our lips are locked and I feel safe, comfortable and dangerously wanted.</p>
+<p><strong>Red flag #3:</strong> Written on his mirror: &#8220;BBC Live free and happy.&#8221; I find out BBC stands for Bitches Be Cray. And I find out about his ex.<strong> The ex that broke his heart, cheated on him, pushed him to a dark place and clearly left him with a wound not yet healed. I see her power over him in the way he stares at the ceiling as he tells me about her, quietly disappearing and detaching from the present to tunnel vision into the past.</strong> I can see it in the way he self-consciously pushes his hands through his hair. And I can see it in the way he finishes by saying, &#8220;I question whether she really loved me.&#8221; And now I know, her power extends over me, and that even if I&#8217;m not the rebound, the quick fix, the escape from the pain, this guy is still broken, and that when we aren&#8217;t laughing, or exchanging stories, she&#8217;ll flash in and out of him, just bright enough to illuminate the damage that&#8217;s still there.</p>
+<p>Despite the looming presence of The ex and the possibility that I had just experienced my first time as the &#8216;Rebound Girl&#8217;, the date was the best I&#8217;d ever had and well&#8230;I wanted to see him again. <strong>I wanted to replicate the connection, feel it again in a raw and honest form so that I could stamp it as ours and take it somewhere.</strong> But where could I take it? His baggage couldn&#8217;t even be classified as baggage because it wasn&#8217;t even packed yet. In my perfect world, I&#8217;d be the extra set of hands that helps him pack, but in reality every time he mentioned her name or a funny anecdote about her, I should have known he wasn&#8217;t even ready or willing to pack. So what&#8217;s the point? The Hollywood-manufactured hope that the rebound girl can become The Girl.</p>
+<p>I tried to let the good-date high consume me, I wanted to have a permanent smile in my eyes, my voice and my lips, but the feeling that I had been used to had drained the colors from my life until almost 5 days had passed since the date and my world was black and white again.</p>
+<p>This distance did push me to think clearly about how I felt about having sex on the first date. I&#8217;d never done it before, and well, I&#8217;d grown up thinking it was a cardinal sin. I hadn&#8217;t even thought about how ever so subtly but effectively society, movies and popular culture had instilled in me that sex on the first date was a sure-fire way to have the guy never call you again. What fucking bullshit. Sex on the first date is not degrading. It is unsafe, because well you&#8217;re going home with a stranger, but proceed at your own risk. Chemistry, sparks, sexual tension, whatever you want to call it &#8212; if it&#8217;s there, why fight it? If the guy never calls you again cause you gave it up so soon? Good.</p>
+<p>So it&#8217;s been 5 days since our date, and I am quite ready to write him off to the list of &#8216;could have beens and losers&#8217;, but then he messages me;<strong> &#8220;Natalia! How have you been?&#8221;.</strong> At this point, I feel like someone who has been yanked out of the ocean, resuscitated and jolted by confusion and shock. This feeling becomes all too familiar to me. For the next week or so I become a mess of contradicting emotions, waiting for replies that take days to come, and using every ounce of my self-control to get him out of my mind and then feeling winded when the replies do come. But excuse or no excuse every word from him fed a dangerous hope that he was still interested. Every message, as delayed as they came (and never an apology) pulled me under his control, I forgot about The ex; about the pain I was swallowing, and the damage it was causing me. I excuse him for my friends, and I lie to myself, it becomes ridiculous. And what&#8217;s worse is that there was still no sign I&#8217;m getting a second date.</p>
+<p>At some point you&#8217;ve got to give up. It&#8217;s about this same time you realize what you&#8217;ve needlessly put yourself through and then the regret and humiliation tears through you so cripplingly you have to promise yourself you&#8217;ll never handle dating this way again. Either way, I continue to let the white noise between us be the soundtrack of my life (as always &#8212; holding out hope, just in case). I passive aggressively drop off his jacket at his work when he&#8217;s not working, but much less passively, I casually message him to let him know I had dropped it off. His reply splits me in two; he&#8217;s confused as to why I didn&#8217;t just give it back when we saw each other next. So he wants to see me again??? But he&#8217;s not really interested??? I drew my line a mile ago, but my reply, heavy with honesty, barely masked by casual curiosity, like a top two sizes too small, put me so far out of the boundaries I had drawn, it cost me everything. I got the last word, but now I was definitely under his &#8216;BBC&#8217; list. Did I reveal myself too soon? Was the honesty too intense for something so barely formed? Now of course I know I did myself a favour. But what if circumstances are different? What if both parties are happy to bring it into fruition, is honesty too early a gamble that can ruin any chances of a relationship? Honesty to me is invaluable, but there&#8217;s a reason why the fear to be honest is so crippling. The first few weeks of dating are so fragile, it seems like anything you do can send someone running, but without honesty and rawness as building blocks, are you more likely to misunderstand messages? Will you waste your time? Do they even want a relationship? I would love if guys told me what they wanted from the start; it&#8217;d save me the excruciating pain of trying to read into everything and figure everything out. But then what about the art of seduction, the game, the chase and the mystery &#8212; that energy cannot be manifested in any other form. I try to force myself to &#8220;go with the flow,&#8221; but to me that&#8217;s almost impossible. I suppose if someone can&#8217;t handle a shot of honesty with a chaser of crazy, they&#8217;re not worth it.</p>
+<p>And so here we are again, only one date, a few weeks of messaging, and basically strangers with a strong physical and spiritual connection &#8212; but oh so much pain and rejection and this was worse because I still awe over our seamless connection. It still gnaws a little that it didn&#8217;t get me over the line. A month or so later I find out they got back together&#8230;obviously his little mirror mantra didn&#8217;t work.</p>
+<p>Here&#8217;s to honesty being the best policy.</p>
+
+      <div data-chorus-discovery data-url="http://theurbandater.com/dates-details/how-honest-are-we.php/"></div><p>Original article: <a href="http://theurbandater.com/dates-details/how-honest-are-we.php/" rel="bookmark" title="Permanent link to 'How Honest Are We?'">How Honest Are We?</a><p>&copy;2014 <a href="http://theurbandater.com">the Urban Dater</a>. All Rights Reserved.</p><p>The post <a rel="nofollow" href="http://theurbandater.com/dates-details/how-honest-are-we.php/">How Honest Are We?</a> appeared first on <a rel="nofollow" href="http://theurbandater.com">the Urban Dater</a>.</p>
+<img src="//feeds.feedburner.com/~r/theurbandater/~4/WiqAYqbCh0M" height="1" width="1" alt=""/>
+                )
+
+        )
+
+    [description] => <p>the Urban Dater is a blog covering the topics of Online Dating, Relationship Advice and Sex. Check out our latest entry here: <a rel="nofollow" href="http://theurbandater.com">the Urban Dater - A Blog About Online Dating, Relationships &amp; Sex</a></p>
+<p>You could hit me with a red flag and said, &#8220;I just hit you with a red flag,&#8221; and I still wouldn&#8217;t take the hint that I was in a bad situation. I am a hopeful romantic. Red flags for me are weaknesses in a person I can overlook or accept. This particular night out it must [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://theurbandater.com/dates-details/how-honest-are-we.php/">How Honest Are We?</a> appeared first on <a rel="nofollow" href="http://theurbandater.com">the Urban Dater</a>.</p>
+    [commentRss] => stdClass Object
+        (
+            [wfw] => http://wellformedweb.org/CommentAPI/
+            [content] => http://theurbandater.com/dates-details/how-honest-are-we.php/feed/
+        )
+
+    [comments] => stdClass Object
+        (
+            [slash] => http://purl.org/rss/1.0/modules/slash/
+            [content] => 0
+        )
+
+    [origLink] => http://theurbandater.com/dates-details/how-honest-are-we.php/
+)
+stdClass Object
+(
+    [provider_url] => http://theurbandater.com
+    [description] => You could hit me with a red flag and said, "I just hit you with a red flag," and I still wouldn't take the hint that I was in a bad situation. I am a hopeful romantic. Red flags for me are weaknesses in a person I can overlook or accept.
+    [embeds] => Array
+        (
+        )
+
+    [safe] => 1
+    [provider_display] => theurbandater.com
+    [related] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [score] => 0.52851295471191
+                    [description] => Watch a live World AIDS Day performance for (RED), presented by (BANK OF AMERICA)RED. Learn more at bankofamerica.com/red. Performance starts at 7.30pmET on December 1st 2014. Donate at: red.org/thankyou (RED) on Twitter: @RED Bank of America on Twitter: @bofa_community
+                    [title] => A (RED) THANK YOU - Presented by (BANK OF AMERICA)RED
+                    [url] => https://www.youtube.com/watch?v=HzI_UN8_MOo
+                    [thumbnail_height] => 360
+                    [thumbnail_url] => http://i.ytimg.com/vi/HzI_UN8_MOo/hqdefault.jpg
+                    [thumbnail_width] => 480
+                )
+
+            [1] => stdClass Object
+                (
+                    [score] => 0.52402466535568
+                    [description] => The American Red Cross regularly touts how responsible it is with donors' money. "We're very proud of the fact that 91 cents of every dollar that's donated goes to our services," Red Cross CEO Gail McGovern said in a speech in Baltimore last year. "That's world class, obviously."
+                    [title] => The Red Cross CEO Has Been Misleading About Where Donors' Dollars Are Going
+                    [url] => http://www.propublica.org/article/red-cross-ceo-has-been-misleading-about-donations
+                    [thumbnail_height] => 630
+                    [thumbnail_url] => http://www.propublica.org/images/ngen/gypsy_og_image/20121204-red-cross-1200x630.jpg
+                    [thumbnail_width] => 1200
+                )
+
+        )
+
+    [favicon_url] => http://theurbandater.com/wp-content/themes/magazine-pro/images/favicon.ico
+    [authors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [url] => http://theurbandater.com/author/natalia-morawski/
+                    [name] => Natalia Morawski
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [caption] => 
+                    [url] => http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png
+                    [height] => 663
+                    [width] => 1000
+                    [colors] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 36
+                                            [1] => 25
+                                            [2] => 11
+                                        )
+
+                                    [weight] => 0.6044921875
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 74
+                                            [1] => 63
+                                            [2] => 36
+                                        )
+
+                                    [weight] => 0.2890625
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 241
+                                            [1] => 244
+                                            [2] => 246
+                                        )
+
+                                    [weight] => 0.03271484375
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 141
+                                            [1] => 124
+                                            [2] => 96
+                                        )
+
+                                    [weight] => 0.02685546875
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 197
+                                            [1] => 202
+                                            [2] => 200
+                                        )
+
+                                    [weight] => 0.023681640625
+                                )
+
+                        )
+
+                    [entropy] => 5.7130104513131
+                    [size] => 1656513
+                )
+
+            [1] => stdClass Object
+                (
+                    [caption] => 
+                    [url] => http://theurbandater.com/wp-content/uploads/2014/11/kitten-lingerie.jpg
+                    [height] => 250
+                    [width] => 300
+                    [colors] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 235
+                                            [1] => 235
+                                            [2] => 212
+                                        )
+
+                                    [weight] => 0.58642578125
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 190
+                                            [1] => 147
+                                            [2] => 123
+                                        )
+
+                                    [weight] => 0.08349609375
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 151
+                                            [1] => 117
+                                            [2] => 93
+                                        )
+
+                                    [weight] => 0.076171875
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 6
+                                            [1] => 7
+                                            [2] => 10
+                                        )
+
+                                    [weight] => 0.072998046875
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 103
+                                            [1] => 83
+                                            [2] => 68
+                                        )
+
+                                    [weight] => 0.07080078125
+                                )
+
+                        )
+
+                    [entropy] => 5.3002369123091
+                    [size] => 17273
+                )
+
+            [2] => stdClass Object
+                (
+                    [caption] => 
+                    [url] => http://theurbandater.com/wp-content/uploads/2014/11/image-150x150.jpg
+                    [height] => 150
+                    [width] => 150
+                    [colors] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 223
+                                            [1] => 234
+                                            [2] => 238
+                                        )
+
+                                    [weight] => 0.56103515625
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 215
+                                            [1] => 177
+                                            [2] => 144
+                                        )
+
+                                    [weight] => 0.185302734375
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 183
+                                            [1] => 128
+                                            [2] => 92
+                                        )
+
+                                    [weight] => 0.080810546875
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 142
+                                            [1] => 92
+                                            [2] => 68
+                                        )
+
+                                    [weight] => 0.0634765625
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 40
+                                            [1] => 28
+                                            [2] => 26
+                                        )
+
+                                    [weight] => 0.055908203125
+                                )
+
+                        )
+
+                    [entropy] => 5.532854689662
+                    [size] => 4481
+                )
+
+            [3] => stdClass Object
+                (
+                    [caption] => 
+                    [url] => http://theurbandater.com/wp-content/uploads/2013/03/online-dating-logo-1.png
+                    [height] => 115
+                    [width] => 430
+                    [colors] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 240
+                                            [1] => 240
+                                            [2] => 240
+                                        )
+
+                                    [weight] => 0.818359375
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 42
+                                            [1] => 39
+                                            [2] => 39
+                                        )
+
+                                    [weight] => 0.181640625
+                                )
+
+                        )
+
+                    [entropy] => 1.5013906306272
+                    [size] => 5045
+                )
+
+            [4] => stdClass Object
+                (
+                    [caption] => 
+                    [url] => http://0.gravatar.com/avatar/ef4b280c975c37f9b7d0aa75fc6817dc?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G
+                    [height] => 80
+                    [width] => 80
+                    [colors] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 219
+                                            [1] => 216
+                                            [2] => 217
+                                        )
+
+                                    [weight] => 0.33154296875
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 29
+                                            [1] => 28
+                                            [2] => 21
+                                        )
+
+                                    [weight] => 0.255615234375
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 101
+                                            [1] => 88
+                                            [2] => 67
+                                        )
+
+                                    [weight] => 0.231201171875
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [color] => Array
+                                        (
+                                            [0] => 169
+                                            [1] => 147
+                                            [2] => 126
+                                        )
+
+                                    [weight] => 0.181640625
+                                )
+
+                        )
+
+                    [entropy] => 5.8918459099574
+                    [size] => 3143
+                )
+
+        )
+
+    [cache_age] => 86213
+    [language] => English
+    [app_links] => Array
+        (
+        )
+
+    [original_url] => http://feedproxy.google.com/~r/theurbandater/~3/WiqAYqbCh0M/
+    [url] => http://theurbandater.com/dates-details/how-honest-are-we.php/
+    [media] => stdClass Object
+        (
+        )
+
+    [title] => How Honest Are We? - the Urban Dater
+    [offset] => 
+    [lead] => 
+    [content] => <div>
+<article><p> 
+</p><p><a href="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png"><img src="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png"></a>You could hit me with a red flag and said, "I just hit you with a red flag," and I still wouldn't take the hint that I was in a bad situation. I am a hopeful romantic. Red flags for me are weaknesses in a person I can overlook or accept.</p>
+
+<div>
+<div><img src="http://0.gravatar.com/avatar/ef4b280c975c37f9b7d0aa75fc6817dc?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G"></div>
+<div><img src="http://0.gravatar.com/avatar/ef4b280c975c37f9b7d0aa75fc6817dc?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G"></div> 
+</div> 
+</article><article><p><a href="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png"><img src="http://theurbandater.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-8.42.16-pm.png"></a>You could hit me with a red flag and said, "I just hit you with a red flag," and I still wouldn't take the hint that I was in a bad situation. I am a hopeful romantic. Red flags for me are weaknesses in a person I can overlook or accept.</p>
+<p>Oh.</p>
+</article><article><a href="http://theurbandater.com/relationships/healthy-dating-for-your-healthy-lifestyle.php/"><img src="http://theurbandater.com/wp-content/uploads/2014/11/image-150x150.jpg"></a><div>
+<p>A healthy relationship is one of the aspects that contribute to healthy living. It enhances your emotional, mental, and physical well-being. The right person will make every minute of your life ... <a href="http://theurbandater.com/relationships/healthy-dating-for-your-healthy-lifestyle.php/">Read the Dirt...</a></p>
+</div>
+</article></div>
+    [entities] => Array
+        (
+        )
+
+    [favicon_colors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [color] => Array
+                        (
+                            [0] => 30
+                            [1] => 30
+                            [2] => 30
+                        )
+
+                    [weight] => 0.22216796875
+                )
+
+            [1] => stdClass Object
+                (
+                    [color] => Array
+                        (
+                            [0] => 243
+                            [1] => 243
+                            [2] => 243
+                        )
+
+                    [weight] => 0.017333984375
+                )
+
+            [2] => stdClass Object
+                (
+                    [color] => Array
+                        (
+                            [0] => 126
+                            [1] => 126
+                            [2] => 126
+                        )
+
+                    [weight] => 0.00537109375
+                )
+
+            [3] => stdClass Object
+                (
+                    [color] => Array
+                        (
+                            [0] => 178
+                            [1] => 178
+                            [2] => 178
+                        )
+
+                    [weight] => 0.005126953125
+                )
+
+        )
+
+    [keywords] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [score] => 27
+                    [name] => flags
+                )
+
+            [1] => stdClass Object
+                (
+                    [score] => 21
+                    [name] => red
+                )
+
+            [2] => stdClass Object
+                (
+                    [score] => 12
+                    [name] => romantic
+                )
+
+            [3] => stdClass Object
+                (
+                    [score] => 12
+                    [name] => overlook
+                )
+
+            [4] => stdClass Object
+                (
+                    [score] => 11
+                    [name] => hit
+                )
+
+            [5] => stdClass Object
+                (
+                    [score] => 10
+                    [name] => hint
+                )
+
+            [6] => stdClass Object
+                (
+                    [score] => 10
+                    [name] => well-being
+                )
+
+            [7] => stdClass Object
+                (
+                    [score] => 8
+                    [name] => weaknesses
+                )
+
+            [8] => stdClass Object
+                (
+                    [score] => 8
+                    [name] => healthy
+                )
+
+            [9] => stdClass Object
+                (
+                    [score] => 8
+                    [name] => person
+                )
+
+        )
+
+    [published] => 1417514459000
+    [provider_name] => Theurbandater
+    [type] => html
+    [site_id] => 3
+    [fid] => 112
+    [pubDate] => Tue, 02 Dec 2014 10:00:59 PST
+)
